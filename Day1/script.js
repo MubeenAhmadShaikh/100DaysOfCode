@@ -11,7 +11,6 @@ const countdown = () => {
   const lastDay = new Date("March 21, 2022 00:00:00").getTime();
   const firstDay = new Date().getTime();
   const daysLeft = lastDay - firstDay;
-  console.log(daysLeft);
 
   //Calculation of time
   const second = 1000;

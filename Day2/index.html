@@ -1,0 +1,25 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css" />
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <h1>Christmas Guest List</h1>
+    <ul class="guest-list" id="guest-list">
+      <li>Me</li>
+      <li>Cat</li>
+    </ul>
+
+    <form id="form">
+      <label for="name">New guest:</label>
+      <input id="input" type="text" id="name" name="name" />
+      <p class="hidden" id="error">Plaese enter guest name</p>
+      <div>
+        <button id="btn" type="button">Add 'em</button>
+        <button id="btn-remove" type="button">Remove last guest</button>
+        <button id="evil-remove" type="button">Remove evil</button>
+      </div>
+    </form>
+    <script src="script.js"></script>
+  </body>
+</html>
