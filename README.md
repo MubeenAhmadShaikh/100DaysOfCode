@@ -19,12 +19,12 @@ In this section I will be adding whatever I have learned on daily basis while fo
 
 ###### Note: Please find the readme.md file in each day's directory for more details
 
-Day 1 : Live Demo : https://mubeenahmadshaikh.github.io/100DaysOfCode/Day1/
+Day 1 - Countdown : https://mubeenahmadshaikh.github.io/100DaysOfCode/Day1/
 
-Day 2 : Live Demo : https://mubeenahmadshaikh.github.io/100DaysOfCode/Day2/
+Day 2 - Christmas Guest List : https://mubeenahmadshaikh.github.io/100DaysOfCode/Day2/
 
-Day 4 : Live Demo : https://mubeenahmadshaikh.github.io/100DaysOfCode/Day4/
+Day 4 - Lonely Elf : https://mubeenahmadshaikh.github.io/100DaysOfCode/Day4/
 
-Day 5 : Live Demo : https://mubeenahmadshaikh.github.io/100DaysOfCode/Day5/
+Day 5 - Festive Translator : https://mubeenahmadshaikh.github.io/100DaysOfCode/Day5/
 
-Day 11 : Live Demo : https://mubeenahmadshaikh.github.io/100DaysOfCode/Day11/
+Day 11 - Guess My Number! : https://mubeenahmadshaikh.github.io/100DaysOfCode/Day11/
